@@ -9,7 +9,7 @@ export const Profile = () => {
     <section className={styles.container}>
       <div className={styles.content}>
           <h1 className={styles.title}>Hi, I'm Ashish.</h1>
-          <p className={styles.description}>I'm a Full Stack Developer using React and Node.JS, currently i am styding at NMAMIT, NITTE</p>
+          <p className={styles.description}>I'm a Full Stack Developer using React and Node.JS, currently I'am studying at NMAMIT, NITTE</p>
           <a href="mailto:ashishshetty139@gmail.com"  className={styles.contactBtn}>
             Contact Me
           </a>
